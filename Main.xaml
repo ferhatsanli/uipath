@@ -91,7 +91,7 @@
       <Variable x:TypeArguments="x:String" Name="emlaktipi" />
       <Variable x:TypeArguments="x:Int32" Name="max_result_page">
         <Variable.Default>
-          <Literal x:TypeArguments="x:Int32" Value="500" />
+          <Literal x:TypeArguments="x:Int32" Value="999" />
         </Variable.Default>
       </Variable>
       <Variable x:TypeArguments="x:Int32" Default="0" Name="current_page" />
